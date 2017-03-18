@@ -22,30 +22,15 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ELECTUS ROTATUS"
+        android:text="ELECTUS ROTATUS = Adalah jenis burung yang dilindungi,burung asli endemik indonesia.."
         android:textColor="@android:color/black"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintRight_toRightOf=""
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Ini adalah burung yang dilindungi di INDONESIA..."
-        android:textColor="@android:color/black"
-        android:textSize="18sp"
-        android:paddingTop="530px" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Keberadaanya sekarang sangatlah langka..."
-        android:textColor="@android:color/black"
-        android:textSize="18sp"
-        android:paddingTop="615px" />
 
 
 </android.support.constraint.ConstraintLayout>
